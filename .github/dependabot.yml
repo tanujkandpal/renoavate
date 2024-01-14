@@ -9,6 +9,9 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    commit-message:
+     # Prefix all commit messages with "npm: "
+     prefix: "mvn"
     # Number of pull request
     open-pull-requests-limit: 10
       # Add reviewers
