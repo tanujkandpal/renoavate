@@ -10,5 +10,8 @@ updates:
     schedule:
       interval: "daily"
     # Number of pull request
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 10
+      # Add reviewers
+    reviewers:
+        - "Test Name"
 
