@@ -9,6 +9,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    # Disable version updates for npm dependencies
-    open-pull-requests-limit: 6
+    # Number of pull request
+    open-pull-requests-limit: 3
 
