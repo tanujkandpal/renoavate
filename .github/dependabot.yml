@@ -11,4 +11,4 @@ updates:
       interval: "daily"
       labels: [ ]
       # Allow up to 10 open pull requests for pip dependencies
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 9
